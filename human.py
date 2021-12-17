@@ -5,3 +5,4 @@ class Human:
     
     def show_information(self):
         print(f'{self.name} is {self.age} y.o.')
+        
